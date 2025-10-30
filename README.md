@@ -27,6 +27,8 @@ The project demonstrates **basic Bash scripting**, file management, and Git/GitH
 
 
 ---
+This typo has been fixed in the bug-fix-typo branch.
+
 
 ## 🚀 How to Run
 1. Clone this repository:
